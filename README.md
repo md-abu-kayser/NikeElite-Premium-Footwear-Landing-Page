@@ -72,14 +72,14 @@ Nike Elite is a modern, responsive e-commerce landing page built with Tailwind C
 - **Github pages:**
 
 ```
- https://md-abu-kayser.github.io/NikeElite-Premium-Footwear-Landing-Page/
+ https://md-abu-kayser.github.io/elite-footwear-landing-tailwind/
 
 ```
 
 - **Git Clone:**
 
 ```
-git clone https://github.com/md-abu-kayser/NikeElite-Premium-Footwear-Landing-Page.git
+git clone https://github.com/md-abu-kayser/elite-footwear-landing-tailwind.git
 ```
 
 ---
@@ -125,7 +125,7 @@ If you open a pull request, please include a short description of your change an
 - **Name:** Md Abu Kayser - Full-Stack Engineer
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
-- **Project:** _NikeElite-Premium-Footwear-Landing-Page_
+- **Project:** _elite-footwear-landing-tailwind_
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
